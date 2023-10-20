@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rishabh1620
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m a front-end developer
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me @alaapsutra(twitter)
+- 📫 How to reach me @alaapsutra (twitter)
 
 <!---
 rishabh1620/rishabh1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
