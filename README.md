@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabh1620
 - 👀 I’m interested in coding
-- 🌱 I’m a front-end developer
+- 🌱 I’m a MERN and MEAN stack developer
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me @alaapsutra (twitter)
 
